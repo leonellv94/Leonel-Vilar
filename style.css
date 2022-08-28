@@ -34,7 +34,6 @@ body {
 }
 
 .text1 {
-    display: grid;
     font-size: 22px;  
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
